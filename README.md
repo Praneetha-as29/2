@@ -40,7 +40,7 @@ Your site is live at:
 ### ✅ Task 4: Calculator App
 
 - 📄 **Description**: A basic calculator app that performs arithmetic operations (addition, subtraction, multiplication, division) using JavaScript.
-- 🌐 **Live Demo**: [View Calculator](https://praneetha-as29.github.io/CODSOFT/calculator/)  
+- 🌐 **Live Demo**: [View Calculator](https://praneetha-as29.github.io/CODSOFT/task4/)  
 - 📂 **Folder**: `calculator/`
 
 ---
