@@ -23,7 +23,7 @@ Your site is live at:
 
 ### ✅ Task 2: Personal Portfolio
 
-- 📄 **Description**: A personal portfolio showcasing my skills, projects, and resume. Includes responsive design and project links.
+- 📄 **Description**: A personal portfolio showcasing my skills, projects, and resume. Includes images and project links.
 - 🌐 **Live Demo**: [View Portfolio](https://praneetha-as29.github.io/CODSOFT/task2/)  
 - 📂 **Folder**: `task2/`
 
