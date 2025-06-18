@@ -32,7 +32,7 @@ Your site is live at:
 ### ✅ Task 3: Calculator App
 
 - 📄 **Description**: A basic calculator app that performs arithmetic operations (addition, subtraction, multiplication, division) using JavaScript.
-- 🌐 **Live Demo**: [View Calculator](https://praneetha-as29.github.io/CODSOFT/task4/)  
+- 🌐 **Live Demo**: [View Calculator](https://praneetha-as29.github.io/CODSOFT/task3/)  
 - 📂 **Folder**: `calculator/`
 
 ---
@@ -40,7 +40,7 @@ Your site is live at:
 ### ✅ Task 4: Tribute Page
 
 - 📄 **Description**: A tribute page dedicated to Dr. A.P.J. Abdul Kalam, featuring a brief biography and achievements.
-- 🌐 **Live Demo**: [View Tribute Page](https://praneetha-as29.github.io/CODSOFT/task3/)  
+- 🌐 **Live Demo**: [View Tribute Page](https://praneetha-as29.github.io/CODSOFT/task4/)  
 - 📂 **Folder**: `task3/`
 
 ---
