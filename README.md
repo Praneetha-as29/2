@@ -15,7 +15,7 @@ Your site is live at:
 
 ### ✅ Task 1: Landing Page
 
-- 📄 **Description**: A clean and responsive landing page titled "Dine From Home", built using HTML and CSS. It showcases a food service business offering homemade meals, complete with sections like services, menu, and a contact form. 
+- 📄 **Description**: A simple and responsive landing page titled "Dine From Home", built using HTML and CSS. It showcases a food service business offering homemade meals, complete with sections like services, menu, and a contact form. 
 - 🌐 **Live Demo**: [View Landing Page](https://praneetha-as29.github.io/CODSOFT/task1/)  
 - 📂 **Folder**: `task1/`
 
